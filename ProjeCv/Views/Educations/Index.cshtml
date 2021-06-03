@@ -1,0 +1,37 @@
+﻿@model List<ProjeCv.Models.Entity.Education>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@Html.ActionLink("Add Education", "AddEducation", "Educations", null, new { @class = "btn btn-primary", style = "float:right;" })
+<h2 class="text-danger">Education</h2>
+
+<table class="table table-bordered table-borderless table-responsive-lg table-striped table-hover table-warning">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>SubTitle</th>
+        <th>GPA</th>
+        <th>Department</th>
+        <th>Date</th>
+        <th>Delete</th>
+        <th>Update</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Title</td>
+            <td>@item.SubTitle</td>
+            <td>@item.Gpa</td>
+            <td>@item.Department</td>
+            <td>@item.Date</td>
+            <td>@Html.ActionLink("Delete", "DeleteEducation", "Educations", new { id = item.Id }, new { @class = "btn btn-danger" })</td>
+            <td>@Html.ActionLink("Update", "UpdateEducation", "Educations", new { id = item.Id }, new { @class = "btn btn-warning" })</td>
+
+        </tr>
+    }
+
+
+</table>

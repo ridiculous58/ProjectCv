@@ -1,0 +1,16 @@
+﻿@model ProjeCv.Models.Entity.Interest
+@{
+    ViewBag.Title = "AddInterest";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Add Interest</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x=>x.Interestme,new {@class="control-label" })
+    @Html.TextBoxFor(x=>x.Interestme,new { @class="form-control",@required="required"})
+    <br />
+    <input type="submit" value="Add Interest" class="btn btn-outline-info" />
+}
+

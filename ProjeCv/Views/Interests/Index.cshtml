@@ -1,0 +1,32 @@
+﻿@model List<ProjeCv.Models.Entity.Interest>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+@Html.ActionLink("Add Interest","AddInterest","Interests",null,new { @class="btn btn-primary",style="float:right;"})
+<h2 class="text-danger">Interest</h2>
+
+
+<table class="table table-bordered table-borderless table-responsive-lg table-striped table-hover table-warning">
+    <tr>
+        <th>Id</th>
+        <th>Interestme</th>
+        <th>Delete</th>
+        <th>Update</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+        <td>@item.Id</td>
+        <td>@item.Interestme</td>
+        <td>@Html.ActionLink("Delete", "DeleteInterest", "Interests", new { id=item.Id}, new { @class = "btn btn-danger" })</td>
+        <td>@Html.ActionLink("Update", "UpdateInterest", "Interests", new {id=item.Id }, new { @class = "btn btn-warning" })</td>
+        </tr>
+    }
+
+
+
+</table>

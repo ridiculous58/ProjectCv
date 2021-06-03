@@ -1,0 +1,146 @@
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\ProjeCv.dll.config
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\ProjeCv.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\ProjeCv.pdb
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\csc.exe
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\csc.exe.config
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\csc.rsp
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\csi.exe
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\csi.exe.config
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\csi.rsp
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Console.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\vbc.exe
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\vbc.exe.config
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\vbc.rsp
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Helpers.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Mvc.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Razor.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Razor.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Helpers.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\System.Web.Mvc.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.csproj.CopyComplete
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.dll
+C:\Users\DELL\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.pdb
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\ProjeCv.dll.config
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\ProjeCv.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\ProjeCv.pdb
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\csc.exe
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\csc.exe.config
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\csc.rsp
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\csi.exe
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\csi.exe.config
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\csi.rsp
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.AppContext.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Collections.Immutable.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Console.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.Compression.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.FileSystem.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.IO.Pipes.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.AccessControl.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Claims.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.ValueTuple.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.XPath.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\vbc.exe
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\vbc.exe.config
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\vbc.rsp
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\VBCSCompiler.exe
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\roslyn\VBCSCompiler.exe.config
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.SqlServer.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\Microsoft.Web.Infrastructure.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Helpers.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Mvc.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Razor.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Deployment.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Razor.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\EntityFramework.SqlServer.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Razor.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Deployment.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Webpages.Razor.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Helpers.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\System.Web.Mvc.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.csprojAssemblyReference.cache
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.csproj.CoreCompileInputs.cache
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.csproj.CopyComplete
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.dll
+D:\Dell Emir Backup\source\repos\ProjeCv\ProjeCv\obj\Debug\ProjeCv.pdb

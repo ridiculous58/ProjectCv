@@ -1,0 +1,15 @@
+﻿@model ProjeCv.Models.Entity.Skill
+@{
+    ViewBag.Title = "AddSkill";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Add Skill</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x=>x.Skillme,new { @class="control-label"})
+    @Html.TextBoxFor(x=>x.Skillme,new { @class="form-control",@required="required"})
+    <br />
+    <input type="submit" value="Add Skill" class="btn btn-outline-info"/>
+}

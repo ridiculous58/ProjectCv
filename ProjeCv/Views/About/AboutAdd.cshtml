@@ -1,0 +1,31 @@
+﻿@model ProjeCv.Models.Entity.About
+@{
+    ViewBag.Title = "AboutAdd";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>About Add</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Name, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Surname, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Surname, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Phone, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Mail, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Address, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Address, new { @class = "form-control" })
+    <br />
+
+    @Html.LabelFor(x => x.Aboutme, new { @class = "control-label" })
+    @Html.TextBoxFor(x => x.Aboutme, new { @class = "form-control" })
+    <br />
+    <input type="submit" class="btn btn-outline-info" value="About Add"  style="margin-bottom:1%;"/>
+}

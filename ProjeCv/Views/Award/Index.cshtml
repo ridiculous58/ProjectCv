@@ -1,0 +1,31 @@
+﻿@model List<ProjeCv.Models.Entity.Award>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@Html.ActionLink("Add Award", "AddAward", "Award",null,new {@class="btn btn-primary" , style="float:right;" })
+<h2 class="text-danger">Award</h2>
+
+<table class="table table-bordered table-borderless table-responsive-lg table-striped table-hover table-warning">
+    <tr>
+
+        <th>Id</th>
+        <th>Award</th>
+        <th>Delete</th>
+        <th>Update</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Awardme</td>
+            <td>@Html.ActionLink("Delete","DeleteAward","Award",new { id = item.Id},new { @class="btn btn-danger"})</td>
+            <td>@Html.ActionLink("Update","UpdateAward","Award",new { id=item.Id},new { @class="btn btn-warning"})</td>
+        </tr>
+    }
+
+
+
+</table>

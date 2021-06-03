@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DynamicCvWebSiteModelStoreContainer" CdmEntityContainer="DynamicCvWebSiteEntities1">
+    <EntitySetMapping Name="ABOUTS">
+      <EntityTypeMapping TypeName="DynamicCvWebSiteModel.ABOUTS">
+        <MappingFragment StoreEntitySet="ABOUTS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+          <ScalarProperty Name="PHONE" ColumnName="PHONE" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="ABOUT" ColumnName="ABOUT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AWARDS">
+      <EntityTypeMapping TypeName="DynamicCvWebSiteModel.AWARDS">
+        <MappingFragment StoreEntitySet="AWARDS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AWARD" ColumnName="AWARD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EDUCATIONS">
+      <EntityTypeMapping TypeName="DynamicCvWebSiteModel.EDUCATIONS">
+        <MappingFragment StoreEntitySet="EDUCATIONS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="SUBTITLE" ColumnName="SUBTITLE" />
+          <ScalarProperty Name="DEPARTMENT" ColumnName="DEPARTMENT" />
+          <ScalarProperty Name="GPA" ColumnName="GPA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EXPERIENCES">
+      <EntityTypeMapping TypeName="DynamicCvWebSiteModel.EXPERIENCES">
+        <MappingFragment StoreEntitySet="EXPERIENCES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="SUBTITLE" ColumnName="SUBTITLE" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="DETAIL" ColumnName="DETAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="INTERESTS">
+      <EntityTypeMapping TypeName="DynamicCvWebSiteModel.INTERESTS">
+        <MappingFragment StoreEntitySet="INTERESTS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="INTEREST" ColumnName="INTEREST" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SKILLS">
+      <EntityTypeMapping TypeName="DynamicCvWebSiteModel.SKILLS">
+        <MappingFragment StoreEntitySet="SKILLS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SKILL" ColumnName="SKILL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

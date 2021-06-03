@@ -1,0 +1,39 @@
+﻿@model List<ProjeCv.Models.Entity.Experience>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@Html.ActionLink("Add Experience", "AddExperience", "Experiences", null, new { @class = "btn btn-primary", style = "float:right;" })
+<h2>Experience</h2>
+
+<table class="table table-bordered table-borderless table-responsive-lg table-striped table-hover table-warning">
+    <tr>
+
+        <th>Id</th>
+        <th>Title</th>
+        <th>Subtitle</th>
+        <th>Date</th>
+        <th>Detail</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.Id</td>
+            <td>@item.Title</td>
+            <td>@item.SubTitle</td>
+            <td>@item.Date</td>
+            <td>@item.Detail</td>
+            <td>@Html.ActionLink("Delete", "DeleteExperience", "Experiences", new{id=item.Id }, new { @class = "btn btn-danger" })</td>
+            <td>@Html.ActionLink("Update", "UpdateExperience", "Experiences", new {id=item.Id}, new { @class = "btn btn-warning" })</td>
+
+        </tr>
+    }
+
+
+
+</table>

@@ -1,0 +1,20 @@
+﻿@model ProjeCv.Models.Entity.Award
+@{
+    ViewBag.Title = "AddAward";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Add Award</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x=>x.Id,new { @class="control-label"})
+    @Html.TextBoxFor(x=>x.Id,new {@class="form-control",@readonly="readonly"})
+    <br />
+    @Html.LabelFor(x=>x.Awardme,new {@class="control-label" })
+    @Html.TextBoxFor(x=>x.Awardme,new { @class="form-control",@required="required"})
+    <br />
+    <input type="submit" value="Add Award" class="btn btn-outline-info"/>
+
+}
+

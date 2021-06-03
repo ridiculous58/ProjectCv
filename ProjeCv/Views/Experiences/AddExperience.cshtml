@@ -1,0 +1,25 @@
+﻿@model ProjeCv.Models.Entity.Experience
+@{
+    ViewBag.Title = "AddExperience";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Add Experience</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x=>x.Title,new { @class="control-label"})
+    @Html.TextBoxFor(x=>x.Title,new { @class="form-control", palaceholder = "Title", @required="required"})
+    <br />
+    @Html.LabelFor(x=>x.SubTitle,new { @class="control-label"})
+    @Html.TextBoxFor(x=>x.SubTitle,new { @class="form-control", palaceholder = "Subtitle", @required="required"})
+    <br />
+    @Html.LabelFor(x=>x.Detail,new { @class="control-label"})
+    @Html.TextBoxFor(x=>x.Detail,new { @class="form-control", palaceholder = "Detail", @required="required"})
+    <br />
+    @Html.LabelFor(x=>x.Date,new { @class="control-label"})
+    @Html.TextBoxFor(x=>x.Date,new { @class="form-control",palaceholder="Date",@required="required"})
+    <br />
+    <input value="Add Experience" type="submit" class="btn btn-outline-info" />
+
+}

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DynamicCvWebSiteModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ABOUTS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="SURNAME" Type="varchar" MaxLength="50" />
+    <Property Name="ADDRESS" Type="varchar" MaxLength="300" />
+    <Property Name="PHONE" Type="varchar" MaxLength="20" />
+    <Property Name="MAIL" Type="varchar" MaxLength="50" />
+    <Property Name="ABOUT" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="AWARDS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AWARD" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="EDUCATIONS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TITLE" Type="varchar" MaxLength="50" />
+    <Property Name="SUBTITLE" Type="varchar" MaxLength="50" />
+    <Property Name="DEPARTMENT" Type="varchar" MaxLength="50" />
+    <Property Name="GPA" Type="decimal" Precision="5" Scale="2" />
+  </EntityType>
+  <EntityType Name="EXPERIENCES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TITLE" Type="varchar" MaxLength="50" />
+    <Property Name="SUBTITLE" Type="varchar" MaxLength="50" />
+    <Property Name="DATE" Type="varchar" MaxLength="50" />
+    <Property Name="DETAIL" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="INTERESTS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="INTEREST" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="SKILLS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SKILL" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="DynamicCvWebSiteModelStoreContainer">
+    <EntitySet Name="ABOUTS" EntityType="Self.ABOUTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AWARDS" EntityType="Self.AWARDS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EDUCATIONS" EntityType="Self.EDUCATIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EXPERIENCES" EntityType="Self.EXPERIENCES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="INTERESTS" EntityType="Self.INTERESTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SKILLS" EntityType="Self.SKILLS" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
